@@ -1,0 +1,44 @@
+{
+  "merchant": "UD. BUDI JAYA",
+  "tanggal": "23 Maret 2020",
+  "item": [
+    {
+      "nama_item": "Semen Gresik 40 kg",
+      "harga": 57000,
+      "jumlah": 1
+    },
+    {
+      "nama_item": "Knee Pipa PVC 3/4",
+      "harga": 9000,
+      "jumlah": 2
+    },
+    {
+      "nama_item": "Sok Drat PVC 3/4",
+      "harga": 10000,
+      "jumlah": 2
+    },
+    {
+      "nama_item": "Pasir Hitam Cor 25 Kg",
+      "harga": 25000,
+      "jumlah": 5
+    },
+    {
+      "nama_item": "Kayu Meranti 5 x 7",
+      "harga": 85000,
+      "jumlah": 3
+    },
+    {
+      "nama_item": "Seal Tape Drat Pipa",
+      "harga": 15000,
+      "jumlah": 2
+    },
+    {
+      "nama_item": "Isorplas",
+      "harga": 25000,
+      "jumlah": 1
+    }
+  ],
+  "subtotal": 530000,
+  "pajak": 0,
+  "total": 530000
+}
